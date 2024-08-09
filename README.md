@@ -10,4 +10,15 @@ Debit/Credit Card Issuance: Issuing and managing debit and credit cards.
 <h4>Current Account:</h4> Designed for businesses and frequent transactions, usually without interest.
  <h3>3)Deposit and Withdrawal</h3>
 <h4>Cash Deposits:</h4> Allowing deposits of cash into savings or current accounts.<br>
-<h4>Withdrawals:</h4> Supporting various withdrawal methods including cash.
+<h4>Withdrawals:</h4> Supporting various withdrawal methods including cash.<br>
+ 
+<h2>Technologies</h2><br>
+<ul dir="auto">
+<li>Java</li>
+<li>MySQL</li>
+<li>JDBC</li>
+<li>Git</li>
+<li>GitHub</li>
+<li>MySQL Workbench</li>
+<li>IntelliJ IDEA</li>
+</ul>
