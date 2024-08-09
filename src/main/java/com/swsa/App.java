@@ -11,8 +11,9 @@ public class App {
     public static void main(String[] args) throws IOException {
 
         CardService cardService=new CardService();
-        Scanner scanner = new Scanner(System.in);
-        int  choice = 5;
+       Scanner scanner=new Scanner(System.in);
+       int choice = 0;
+
         do {
 
             System.out.println("*** SWAMISAMARTH BANK MANAGEMENT SYSTEM ***");
@@ -22,12 +23,13 @@ public class App {
             System.out.println("2. Saving Account");
             System.out.println("3. Deposit Account ");
             System.out.println("4. Withdraw Amount");
-            System.out.println("5. Exit");
+            System.out.println("0. Exit");
+
             System.out.print("Enter your choice: ");
-            choice = scanner.nextInt();
-            scanner.nextLine();
-            //choice = Integer.parseInt(scanner.nextLine());
-            switch (choice) {
+            //choice = scanner.nextInt();
+            //scanner.nextLine();
+            choice = Integer.parseInt(scanner.nextLine());
+            switch(choice) {
 
                 case 1:
                     System.out.println("Applying For Card");
@@ -45,13 +47,13 @@ public class App {
                     System.out.println("Withdraw Account ");
                     //withdrawAccountServices.insertWithdrawAccount();
                     break;
-                case 5:
+                case 0:
                     System.out.println("Exiting program");
                     break;
                 default:
                     System.out.println("Invalid choice");
             }
-        } while (choice != 5);
+        } while (choice != 0);
         scanner.close();
     }
 }
