@@ -1,8 +1,8 @@
 <h1>swamisamarth-bank-management-systems</h1>
 <h2introduction</h1> 
-A bank management system is a sophisticated software solution designed to streamline and automate the various functions of a bank or financial institution. The primary goal of such a system is to efficiently manage the day-to-day operations, ensure regulatory compliance, enhance customer service, and improve the overall efficiency of banking processes.
- <image src="https://github.com/maliprakashdatta/java-example/assets/152262211/fd46374a-2129-48fb-a08f-412cf2df554d" width="80" height="50">
-<h2>Key features</h2>
+A bank management system is a sophisticated software solution designed to streamline and automate the various functions of a bank or financial institution. The primary goal of such a system is to efficiently manage the day-to-day operations, ensure regulatory compliance, enhance customer service, and improve the overall efficiency of banking processes.<br>
+ 
+<h2><image src="https://github.com/maliprakashdatta/java-example/assets/152262211/fd46374a-2129-48fb-a08f-412cf2df554d" width="80" height="50">Key features</h2>
  <h3>1)Card Management:-</h3>
 Debit/Credit Card Issuance: Issuing and managing debit and credit cards.
 <h3>2)Account Types</h3>
