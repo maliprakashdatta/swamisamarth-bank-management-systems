@@ -5,3 +5,6 @@ Debit/Credit Card Issuance: Issuing and managing debit and credit cards.
 <h3>2)Account Types</h3>
 Savings Account: A basic deposit account that earns interest, often with limited withdrawal options.
 Current Account: Designed for businesses and frequent transactions, usually without interest.
+ <h3>3)Deposit and Withdrawal</h3>
+Cash Deposits: Allowing deposits of cash into savings or current accounts.
+Withdrawals: Supporting various withdrawal methods including cash.
