@@ -1,4 +1,4 @@
-<h1><image src="https://github.com/user-attachments/assets/48fe25e3-a2d1-46e8-a4af-4f9163a86f00" width="50" height="30">swamisamarth-bank-management-systems</h1>
+<h1><image src="https://github.com/user-attachments/assets/da34c001-fb96-4dcd-aeb2-1f4c3c0e0c67" width="50" height="30">swamisamarth-bank-management-systems</h1>
 <h2introduction</h1> 
 A bank management system is a sophisticated software solution designed to streamline and automate the various functions of a bank or financial institution. The primary goal of such a system is to efficiently manage the day-to-day operations, ensure regulatory compliance, enhance customer service, and improve the overall efficiency of banking processes.<br>
  
