@@ -9,5 +9,5 @@ Debit/Credit Card Issuance: Issuing and managing debit and credit cards.
 <h4>Savings Account:</h4> A basic deposit account that earns interest, often with limited withdrawal options.<br>
 <h4>Current Account:</h4> Designed for businesses and frequent transactions, usually without interest.
  <h3>3)Deposit and Withdrawal</h3>
-Cash Deposits: Allowing deposits of cash into savings or current accounts.
-Withdrawals: Supporting various withdrawal methods including cash.
+<h4>Cash Deposits:</h4> Allowing deposits of cash into savings or current accounts.<br>
+<h4>Withdrawals:</h4> Supporting various withdrawal methods including cash.
