@@ -22,3 +22,13 @@ Debit/Credit Card Issuance: Issuing and managing debit and credit cards.
 <li>MySQL Workbench</li>
 <li>IntelliJ IDEA</li>
 </ul>
+
+
+<h2>How to use</h2><br>
+1)Clone the repository
+2)Open the project in IntelliJ IDEA
+3)Create a new database in MySQL Workbench
+4)Update the database name, username, and password in the Database.java file
+5)Run the project
+6)Use the application
+7)Enjoy!
